@@ -1,0 +1,25 @@
+.category h2 {
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin-top: 20px;
+}
+.category .button {
+  width: 10%;
+}
+.category .inputField {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.category .inputField span {
+  position: relative;
+  right: 24%;
+}
+.AddNewProduct{
+  width: 20%;
+  position: relative;
+  left: 70%;
+}
